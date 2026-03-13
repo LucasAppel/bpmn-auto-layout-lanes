@@ -45,7 +45,7 @@
         <dc:Bounds x="200" y="45" width="50" height="50" />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Activity_06rxg9o_di" bpmnElement="Activity_06rxg9o">
-        <dc:Bounds x="325" y="30" width="100" height="80" />
+        <dc:Bounds x="315" y="30" width="120" height="80" />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Gateway_07sa4u9_di" bpmnElement="Gateway_07sa4u9" isMarkerVisible="true">
         <dc:Bounds x="500" y="45" width="50" height="50" />
@@ -65,10 +65,10 @@
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_0dl4rmy_di" bpmnElement="Flow_0dl4rmy">
         <di:waypoint x="250" y="70" />
-        <di:waypoint x="325" y="70" />
+        <di:waypoint x="315" y="70" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_1shvawu_di" bpmnElement="Flow_1shvawu">
-        <di:waypoint x="425" y="70" />
+        <di:waypoint x="435" y="70" />
         <di:waypoint x="500" y="70" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_0a1ahgz_di" bpmnElement="Flow_0a1ahgz">
@@ -82,8 +82,11 @@
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_0ty4gst_di" bpmnElement="Flow_0ty4gst">
         <di:waypoint x="93" y="210" />
-        <di:waypoint x="225" y="210" />
-        <di:waypoint x="225" y="95" />
+        <di:waypoint x="150" y="210" />
+        <di:waypoint x="150" y="140" />
+        <di:waypoint x="150" y="140" />
+        <di:waypoint x="150" y="70" />
+        <di:waypoint x="200" y="70" />
       </bpmndi:BPMNEdge>
     </bpmndi:BPMNPlane>
   </bpmndi:BPMNDiagram>

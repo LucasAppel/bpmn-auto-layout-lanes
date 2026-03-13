@@ -26,9 +26,10 @@ console.log(diagramWithLayoutXML);
 * Sub-processes will be laid out as collapsed sub-processes
 * The following elements are not laid out:
   * Groups
-  * Text annotations
-  * Associations
+  * Generic text annotations
+  * Generic associations
   * Message flows
+* Supported exception: Signavio `TextAnnotation` elements with `dataObjectType="IT-System"` and a task association are laid out inside lanes
 
 ## Resources
 

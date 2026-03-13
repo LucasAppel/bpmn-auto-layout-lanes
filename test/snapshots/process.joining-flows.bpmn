@@ -44,8 +44,11 @@
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_0dxn10w_di" bpmnElement="Flow_0dxn10w">
         <di:waypoint x="93" y="210" />
-        <di:waypoint x="225" y="210" />
-        <di:waypoint x="225" y="95" />
+        <di:waypoint x="150" y="210" />
+        <di:waypoint x="150" y="140" />
+        <di:waypoint x="150" y="140" />
+        <di:waypoint x="150" y="70" />
+        <di:waypoint x="200" y="70" />
       </bpmndi:BPMNEdge>
     </bpmndi:BPMNPlane>
   </bpmndi:BPMNDiagram>
